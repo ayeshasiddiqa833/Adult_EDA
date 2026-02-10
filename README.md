@@ -30,9 +30,9 @@ Additionally, individuals working more than 40 hours per week are more likely to
 -In conclusion, a combination of educational attainment, professional role, and age are the primary drivers of income. These insights can serve as a foundation for further predictive modeling.
 
 ***Project Files***
-|---adult.csv: The dataset used for the analysis.
-"C:\Users\feroz\Downloads\adult_data (1).csv"
-|---adult_eda.ipynb: The Jupyter Notebook containing the full analysis and all visualizations.
+adult.csv: The dataset used for the analysis.
+
+adult_eda.ipynb: The Jupyter Notebook containing the full analysis and all visualizations.
 
 README.md: This file, providing an overview and key findings of the project.
 
