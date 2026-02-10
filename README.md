@@ -1,4 +1,4 @@
-***Exploratory Data Analysis of the Adult Census Income Dataset***
+ṁ***Exploratory Data Analysis of the Adult Census Income Dataset***
 -Executive Summary
 This project provides a comprehensive exploratory data analysis (EDA) of the Adult Census Income dataset, aiming to identify key demographic and professional factors that correlate with an annual income exceeding $50,000.
 
